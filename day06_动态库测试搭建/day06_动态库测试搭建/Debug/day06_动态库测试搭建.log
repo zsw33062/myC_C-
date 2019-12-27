@@ -1,0 +1,12 @@
+﻿生成启动时间为 2018/4/23 19:49:09。
+     1>项目“c:\Users\zsw\documents\visual studio 2013\Projects\day06_动态库测试搭建\day06_动态库测试搭建\day06_动态库测试搭建.vcxproj”在节点 2 上(Build 个目标)。
+     1>Link:
+         E:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"c:\users\zsw\documents\visual studio 2013\Projects\day06_动态库测试搭建\Debug\day06_动态库测试搭建.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"c:\users\zsw\documents\visual studio 2013\Projects\day06_动态库测试搭建\Debug\day06_动态库测试搭建.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"c:\users\zsw\documents\visual studio 2013\Projects\day06_动态库测试搭建\Debug\day06_动态库测试搭建.lib" /MACHINE:X86 "Debug\测试框架.obj"
+            正在创建库 c:\users\zsw\documents\visual studio 2013\Projects\day06_动态库测试搭建\Debug\day06_动态库测试搭建.lib 和对象 c:\users\zsw\documents\visual studio 2013\Projects\day06_动态库测试搭建\Debug\day06_动态库测试搭建.exp
+     1>LINK : warning LNK4232: 名称 day06_动态库测试搭建.exe 包含非 ASCII 字符，在具有除 936 以外的 ANSI 代码页的系统上可能不能加载 DLL
+     1>LINK : fatal error LNK1561: 必须定义入口点
+     1>已完成生成项目“c:\Users\zsw\documents\visual studio 2013\Projects\day06_动态库测试搭建\day06_动态库测试搭建\day06_动态库测试搭建.vcxproj”(Build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:00.30

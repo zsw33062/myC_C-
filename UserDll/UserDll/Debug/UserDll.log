@@ -1,0 +1,11 @@
+﻿生成启动时间为 2018/6/28 15:21:41。
+     1>项目“E:\C_C++源码\UserDll\UserDll\UserDll.vcxproj”在节点 2 上(Build 个目标)。
+     1>Link:
+         E:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\C_C++源码\UserDll\Debug\UserDll.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:\C_C++源码\UserDll\Debug\UserDll.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\C_C++源码\UserDll\Debug\UserDll.lib" /MACHINE:X86 Debug\UserDll.obj
+            正在创建库 E:\C_C++源码\UserDll\Debug\UserDll.lib 和对象 E:\C_C++源码\UserDll\Debug\UserDll.exp
+         UserDll.vcxproj -> E:\C_C++源码\UserDll\Debug\UserDll.exe
+     1>已完成生成项目“E:\C_C++源码\UserDll\UserDll\UserDll.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:01.02

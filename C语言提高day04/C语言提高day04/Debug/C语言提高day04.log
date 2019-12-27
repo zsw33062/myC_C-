@@ -1,0 +1,12 @@
+﻿生成启动时间为 2018/4/11 21:01:33。
+     1>项目“E:\Users\zsw\documents\visual studio 2013\Projects\C语言提高day04\C语言提高day04\C语言提高day04.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         E:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt test.cpp
+         test.cpp
+     1>e:\users\zsw\documents\visual studio 2013\projects\c语言提高day04\c语言提高day04\test.cpp(14): error C2664: “void free(void *)”: 无法将参数 1 从“int”转换为“void *”
+                 从整型转换为指针类型要求 reinterpret_cast、C 样式转换或函数样式转换
+     1>已完成生成项目“E:\Users\zsw\documents\visual studio 2013\Projects\C语言提高day04\C语言提高day04\C语言提高day04.vcxproj”(Build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:00.87

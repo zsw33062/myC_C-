@@ -1,0 +1,11 @@
+﻿生成启动时间为 2018/4/17 18:06:25。
+     1>项目“c:\Users\zsw\documents\visual studio 2013\Projects\多线程并行计算.c\多线程并行计算.c\多线程并行计算.c.vcxproj”在节点 2 上(Build 个目标)。
+     1>Link:
+         E:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"c:\users\zsw\documents\visual studio 2013\Projects\多线程并行计算.c\Debug\多线程并行计算.c.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"c:\users\zsw\documents\visual studio 2013\Projects\多线程并行计算.c\Debug\多线程并行计算.c.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"c:\users\zsw\documents\visual studio 2013\Projects\多线程并行计算.c\Debug\多线程并行计算.c.lib" /MACHINE:X86 "Debug\dm02_数据查找.obj"
+         "Debug\dm01_单线程的局限性.obj"
+         多线程并行计算.c.vcxproj -> c:\users\zsw\documents\visual studio 2013\Projects\多线程并行计算.c\Debug\多线程并行计算.c.exe
+     1>已完成生成项目“c:\Users\zsw\documents\visual studio 2013\Projects\多线程并行计算.c\多线程并行计算.c\多线程并行计算.c.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:00.46

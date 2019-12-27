@@ -1,0 +1,12 @@
+﻿生成启动时间为 2018/4/2 18:51:26。
+     1>项目“E:\Users\zsw\documents\visual studio 2013\Projects\day03\day03\day03.vcxproj”在节点 2 上(ClCompile 个目标)。
+     1>ClCompile:
+         E:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt "dm21_友元函数和友元类.cpp"
+         dm21_友元函数和友元类.cpp
+     1>e:\users\zsw\documents\visual studio 2013\projects\day03\day03\dm21_友元函数和友元类.cpp(54): error C2144: 语法错误:“void”的前面应有“;”
+     1>e:\users\zsw\documents\visual studio 2013\projects\day03\day03\dm21_友元函数和友元类.cpp(54): error C4430: 缺少类型说明符 - 假定为 int。注意:  C++ 不支持默认 int
+     1>已完成生成项目“E:\Users\zsw\documents\visual studio 2013\Projects\day03\day03\day03.vcxproj”(ClCompile 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:00.96

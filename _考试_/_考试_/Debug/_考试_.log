@@ -1,0 +1,11 @@
+﻿生成启动时间为 2018/4/11 17:00:22。
+     1>项目“E:\Users\zsw\documents\visual studio 2013\Projects\_考试_\_考试_\_考试_.vcxproj”在节点 2 上(ClCompile 个目标)。
+     1>ClCompile:
+         E:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:prompt "exm_0101去空格.c"
+         exm_0101去空格.c
+     1>e:\users\zsw\documents\visual studio 2013\projects\_考试_\_考试_\exm_0101去空格.c(35): warning C4047: “初始化”:“char *”与“char **”的间接级别不同
+     1>已完成生成项目“E:\Users\zsw\documents\visual studio 2013\Projects\_考试_\_考试_\_考试_.vcxproj”(ClCompile 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:00.33
